@@ -1,0 +1,5 @@
+node_modules/
+README
+docker-compose
+dockerfile
+.git/
