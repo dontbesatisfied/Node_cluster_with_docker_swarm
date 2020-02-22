@@ -1,3 +1,5 @@
+# Node_cluster_with_docker_swarm
+클러스터 모듈을 사용하는 nodejs 앱을 오케스트레이션으로 구성시 염려되었던 실험
 
 nodejs의 cluster 기능을 사용하면 호스트의 cpu core수만큼 프로세스를 확장시켜 싱글스레드의 단점을 보완할수 있다.
 
